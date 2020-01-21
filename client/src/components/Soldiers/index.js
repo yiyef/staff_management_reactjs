@@ -196,7 +196,6 @@ class Soldiers extends React.Component {
 
 
   fetchData = () => {
-    console.log('in fetch data----1111111111111111111111111111111111111111111111')
     var { count, start,searchItem} = this.state;
     start = start+count;
     this.setState({ 'start': start });
