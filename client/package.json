@@ -1,0 +1,53 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^1.3.11",
+    "@material-ui/core": "^4.5.2",
+    "@material-ui/pickers": "^3.2.8",
+    "antd": "^3.25.0",
+    "axios": "^0.19.0",
+    "bootstrap-less": "^3.3.8",
+    "date-fns": "^2.8.1",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
+    "material-ui-flat-pagination": "^4.0.0",
+    "material-ui-pagination": "^1.1.7",
+    "react": "^16.11.0",
+    "react-datepicker": "^2.10.1",
+    "react-dom": "^16.11.0",
+    "react-images-upload": "^1.2.7",
+    "react-infinite-scroll-component": "^5.0.3",
+    "react-infinite-scroller": "^1.2.4",
+    "react-instantsearch-dom": "^6.0.0",
+    "react-js-pagination": "^3.0.2",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-upload-file": "^2.0.0-beta.6",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "PORT=8000 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
