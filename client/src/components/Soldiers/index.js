@@ -70,7 +70,6 @@ class Soldiers extends React.Component {
     console.log('-------!!!!!!!!!!!!!!in componentDidMount paramObj:'+Object.entries(paramObj))
     this.props.getSoldiers(searchItem,paramObj,this.myCallBack.bind(this));
 
-    console.log('hollo world11111')
   }
  }
 
