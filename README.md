@@ -1,5 +1,5 @@
 ## This project includes Client side code (ReactJs+Redux) and Server Side code (NodeJs+MongoDb)
-###Client Side code
+### Client Side code
 
 Components  | Description
 ------------- | -------------
@@ -8,7 +8,7 @@ Soldier Edit  | Soldeir profile and image editor
 Soldier Create  | Insert new Soldiers
 
 
-###Server Side code
+### Server Side code
 
 Components  | Description
 ------------- | -------------
